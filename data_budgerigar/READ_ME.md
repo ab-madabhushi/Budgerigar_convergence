@@ -1,0 +1,2 @@
+- Double Blind Analysis.csv contains raw data for inter-observer agreement.
+- Sequence data summer 2022 re annotation - Before dataset .csv, Sequence data summer 2022 re annotation - After dataset.csv contains duration and sequences of warbles of both colonies, across contexts before and and after contact respectively.
