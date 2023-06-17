@@ -1,0 +1,25 @@
+Song NO,Note group sequence A,Note Group sequence S,Lev_dis,length,length_shikhara,error,No. of different note types,No. of different note types,relative error,No. of different note groups,No. different note groups,relative error,expected percentage of agreement
+1,adcbacbf,adcbacbc,1,8,8,12.5,4,5,0.25,3,4,0.333333333,21.8
+2,eeeeee,eeeeee,0,6,6,0,1,1,0,1,1,0,100
+3,cbbbbbbbbbbbcccccc,bbbbbbbbbbbbbccccc,1,18,18,5.555555556,3,2,0.333333333,3,2,0.333333333,54.9
+4,ccfcfcf,ccfcfcf,0,7,7,0,2,3,0.5,2,2,0,51.02
+5,ccacca,cbacba,2,6,6,33.33333333,2,3,0.5,2,3,0.5,33.3
+6,ecddd,cacddd,2,5,6,40,3,5,0.666666667,3,3,0,44
+7,afbafbab,afbafbaf,1,8,8,12.5,3,3,0,3,3,0,32.8
+8,kkkkkkkkbbbb,aaaaaaaabbbb,8,12,12,66.66666667,2,2,0,2,2,0,11.1
+9,bbbbbbbbbbbbaacc,bbbbbbbbcccc,2,16,12,12.5,2,2,0,2,2,0,40.62
+10,abbbccccccadd,acccccccccaaa,5,13,13,38.46153846,4,3,0.25,4,2,0.5,36.67
+11,bblbblbbf,blblbl,1,9,6,11.11111111,4,2,0.5,2,2,0,29.62
+12,babadd,babadd,0,6,6,0,4,4,0,4,3,0.25,33.3
+13,cdbacfca,cbbacbba,3,8,8,37.5,5,3,0.4,4,3,0.25,21.87
+14,cdcdcdc,cbacbacbac,6,7,10,85.71428571,2,3,0.5,2,3,0.5,32.65
+15,baab,caab,1,4,4,25,4,4,0,3,3,0,37.5
+16,cbacbacbac,cbacbacbac,0,10,10,0,4,4,0,4,3,0.25,34
+17,dcdcdcd,dcdcdcd,0,7,7,0,2,2,0,2,2,0,51.02
+18,bbbbbbbbbcccc,bbbbbbbbbbbbb,4,13,13,30.76923077,2,2,0,2,1,0.5,69.23
+19,fblblbl,fblblbl,0,7,7,0,3,2,0.333333333,2,2,0,38.7
+20,cdcdcd,cdbdbd,2,6,6,33.33333333,2,3,0.5,2,3,0.5,33.3
+,,,,,Average error,22.24725275,,,0.236666667,,,0.195833333,40.37
+,,,,,Median Error,12.5,,,76.33333333,,Average % of Agreement,80.41666667,
+,,,,,Average % of agreement ,77.75274725,,,,,,,
+,,,,,,,,,,,,Cohen's Kappa for note-group agreement percentage,0.626911743
